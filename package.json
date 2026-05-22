@@ -5,7 +5,7 @@
   "scripts": {
   "test": "echo \"Todos os testes passaram com sucesso!\" && exit 0",
   "start": "node server.js"
-}
+},
  "repository": {
     "type": "git",
     "url": "git+https://github.com/Arthur6769/introducao-cd-plataforma.git"
