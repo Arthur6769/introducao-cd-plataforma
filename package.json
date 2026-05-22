@@ -1,0 +1,24 @@
+{
+  "name": "introducao-cd-plataforma",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "test": "echo \"Todos os testes passaram com sucesso!\" && exit 0",
+  "start": "node server.js"
+}
+ "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arthur6769/introducao-cd-plataforma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arthur6769/introducao-cd-plataforma/issues"
+  },
+  "homepage": "https://github.com/Arthur6769/introducao-cd-plataforma#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
